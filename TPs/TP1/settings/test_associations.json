@@ -1,0 +1,50 @@
+{
+  "test_calculer_portee": {
+    "name": "Vérifie si le calcul de la portée est bon",
+    "points": 3
+  },
+  
+  "test_no_solution": {
+    "name": "Vérifie si l'équation n'a pas de solution",
+    "points": 2
+  },
+  "test_one_solution": {
+    "name": "Vérifie si l'équation a une solution",
+    "points": 2
+  },
+  "test_two_solutions": {
+    "name": "Vérifie si l'équation a deux solutions",
+    "points": 2
+  },
+  
+  "test_chiffres": {
+    "name": "Vérifie les unités, dizaines et centaines",
+    "points": 4
+  }
+  
+  "test_annee_bissextile": {
+    "name": "Vérifie le jour de la semaine pour une année bissextile",
+    "points": 1
+  }
+  "test_jour_fevrier": {
+    "name": "Vérifie le jour de la semaine pour le mois de février",
+    "points": 1
+  }
+  "test_30_jour": {
+    "name": "Vérifie le jour de la semaine pour un mois à 30jours",
+    "points": 1
+  }
+  "test_31_jour": {
+    "name": "Vérifie le jour de la semaine pour un mois à 31jours",
+    "points": 1
+  }
+  "test_dimanche": {
+    "name": "Vérifie un jour de la semaine",
+    "points": 1
+  }
+  
+  "test_points_perdu": {
+    "name": "Vérifie le nombre de points perdus",
+    "points": 2
+  }
+}

@@ -1,0 +1,13 @@
+.github/workflows/assignment_tests.yml
+.github/workflows/pylint.yml
+README.md
+instructions.md
+exercice1.py
+exercice2.py
+exercice3.py
+exercice4.py
+exercice5.py
+test_assignment.py
+settings/test_associations.json
+settings/files_to_update.txt
+settings/variables.txt

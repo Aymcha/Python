@@ -1,0 +1,16 @@
+test_calculer_portee (__main__.TestExercice1) ... ok
+test_no_solution (__main__.TestExercice2) ... ok
+test_one_solution (__main__.TestExercice2) ... ok
+test_two_solutions (__main__.TestExercice2) ... ok
+test_calculer_points (__main__.TestExercice5) ... ok
+test_chiffres (__main__.TestExercise3) ... ok
+test_30_jour (__main__.TestExercise4) ... ok
+test_31_jour (__main__.TestExercise4) ... ok
+test_annee_bissextile (__main__.TestExercise4) ... ok
+test_dimanche (__main__.TestExercise4) ... ok
+test_jour_fevrier (__main__.TestExercise4) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.048s
+
+OK

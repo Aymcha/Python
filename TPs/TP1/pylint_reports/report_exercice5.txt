@@ -1,0 +1,124 @@
+************* Module exercice5
+exercice5.py:3:2: W0511: TODO: Calculer le nombre de points disponible  (fixme)
+exercice5.py:5:2: W0511: TODO: Afficher le nombre de points disponible (fixme)
+exercice5.py:3:51: C0303: Trailing whitespace (trailing-whitespace)
+exercice5.py:4:0: C0303: Trailing whitespace (trailing-whitespace)
+exercice5.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+exercice5.py:10:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+exercice5.py:11:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+exercice5.py:12:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+exercice5.py:13:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+exercice5.py:14:0: C0304: Final newline missing (missing-final-newline)
+exercice5.py:14:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+exercice5.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+exercice5.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+exercice5.py:1:17: W0621: Redefining name 'dindon' from outer scope (line 10) (redefined-outer-name)
+exercice5.py:1:25: W0621: Redefining name 'lievre' from outer scope (line 11) (redefined-outer-name)
+exercice5.py:1:33: W0621: Redefining name 'cerf' from outer scope (line 12) (redefined-outer-name)
+exercice5.py:1:39: W0621: Redefining name 'ours_noir' from outer scope (line 13) (redefined-outer-name)
+exercice5.py:7:11: E0602: Undefined variable 'nombre_points' (undefined-variable)
+exercice5.py:1:17: W0613: Unused argument 'dindon' (unused-argument)
+exercice5.py:1:25: W0613: Unused argument 'lievre' (unused-argument)
+exercice5.py:1:33: W0613: Unused argument 'cerf' (unused-argument)
+exercice5.py:1:39: W0613: Unused argument 'ours_noir' (unused-argument)
+
+
+Report
+======
+8 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |10     |62.50 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |2      |12.50 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |4      |25.00 |NC       |NC         |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |NC       |NC         |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |NC       |NC         |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |6      |NC       |NC         |
++-----------+-------+---------+-----------+
+|refactor   |0      |NC       |NC         |
++-----------+-------+---------+-----------+
+|warning    |15     |NC       |NC         |
++-----------+-------+---------+-----------+
+|error      |1      |NC       |NC         |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|bad-indentation            |5           |
++---------------------------+------------+
+|unused-argument            |4           |
++---------------------------+------------+
+|redefined-outer-name       |4           |
++---------------------------+------------+
+|trailing-whitespace        |3           |
++---------------------------+------------+
+|fixme                      |2           |
++---------------------------+------------+
+|undefined-variable         |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-function-docstring |1           |
++---------------------------+------------+
+|missing-final-newline      |1           |
++---------------------------+------------+
+
+
+
+
+-------------------------------------
+Your code has been rated at -22.50/10
+

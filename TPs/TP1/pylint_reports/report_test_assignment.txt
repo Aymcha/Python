@@ -1,0 +1,2 @@
+************* Module test_assignment
+test_assignment.py:15:69: E0001: inconsistent use of tabs and spaces in indentation (<unknown>, line 15) (syntax-error)

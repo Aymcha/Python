@@ -1,0 +1,113 @@
+************* Module exercice1
+exercice1.py:5:2: W0511: TODO convertir la vitesse en metre par seconde, assigner la valeur à la variable "vitesse" (fixme)
+exercice1.py:8:2: W0511: TODO calculer la portee, assigner la valeur à la variable "portee" (fixme)
+exercice1.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+exercice1.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+exercice1.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+exercice1.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+exercice1.py:3:0: C0116: Missing function or method docstring (missing-function-docstring)
+exercice1.py:3:20: W0621: Redefining name 'angle' from outer scope (line 14) (redefined-outer-name)
+exercice1.py:3:27: W0621: Redefining name 'vitesse' from outer scope (line 15) (redefined-outer-name)
+exercice1.py:11:11: E0602: Undefined variable 'portee' (undefined-variable)
+exercice1.py:3:20: W0613: Unused argument 'angle' (unused-argument)
+exercice1.py:3:27: W0613: Unused argument 'vitesse' (unused-argument)
+exercice1.py:1:0: W0611: Unused import math (unused-import)
+
+
+Report
+======
+7 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |9      |50.00 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |2      |11.11 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |7      |38.89 |NC       |NC         |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |NC       |NC         |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |NC       |NC         |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |5      |NC       |NC         |
++-----------+-------+---------+-----------+
+|refactor   |0      |NC       |NC         |
++-----------+-------+---------+-----------+
+|warning    |7      |NC       |NC         |
++-----------+-------+---------+-----------+
+|error      |1      |NC       |NC         |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------------+------------+
+|message id                 |occurrences |
++===========================+============+
+|trailing-whitespace        |3           |
++---------------------------+------------+
+|unused-argument            |2           |
++---------------------------+------------+
+|redefined-outer-name       |2           |
++---------------------------+------------+
+|fixme                      |2           |
++---------------------------+------------+
+|unused-import              |1           |
++---------------------------+------------+
+|undefined-variable         |1           |
++---------------------------+------------+
+|missing-module-docstring   |1           |
++---------------------------+------------+
+|missing-function-docstring |1           |
++---------------------------+------------+
+
+
+
+
+-------------------------------------
+Your code has been rated at -14.29/10
+

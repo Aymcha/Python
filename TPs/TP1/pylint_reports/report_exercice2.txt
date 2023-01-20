@@ -1,0 +1,2 @@
+************* Module exercice2
+exercice2.py:9:23: E0001: invalid syntax (<unknown>, line 9) (syntax-error)
